@@ -1,0 +1,227 @@
+{
+  "chama_name": "Tujenge Pamoja Investment Chama",
+  "financial_year": 2025,
+  "till_number": "888444",
+  "members": [
+    {
+      "member_id": "M001",
+      "name": "Sarah Wanjiku",
+      "phone_number": "0711000111",
+      "role": "Chairperson",
+      "total_savings": 60000,
+      "outstanding_fines": 0,
+      "contributions": {
+        "Jan": { "date": "2025-01-02", "amount": 5000, "mpesa_code": "TA19KLM4A", "channel": "Till", "fines_incurred": 0, "savings_credited": 5000 },
+        "Feb": { "date": "2025-02-04", "amount": 5000, "mpesa_code": "TB20XYZ8B", "channel": "Till", "fines_incurred": 0, "savings_credited": 5000 },
+        "Mar": { "date": "2025-03-01", "amount": 5000, "mpesa_code": "TC31ABC9C", "channel": "Till", "fines_incurred": 0, "savings_credited": 5000 },
+        "Apr": { "date": "2025-04-03", "amount": 5000, "mpesa_code": "TD42DEF0D", "channel": "Till", "fines_incurred": 0, "savings_credited": 5000 },
+        "May": { "date": "2025-05-05", "amount": 5000, "mpesa_code": "TE53GHI1E", "channel": "Till", "fines_incurred": 0, "savings_credited": 5000 },
+        "Jun": { "date": "2025-06-02", "amount": 5000, "mpesa_code": "TF64JKL2F", "channel": "Till", "fines_incurred": 0, "savings_credited": 5000 },
+        "Jul": { "date": "2025-07-04", "amount": 5000, "mpesa_code": "TG75MNO3G", "channel": "Till", "fines_incurred": 0, "savings_credited": 5000 },
+        "Aug": { "date": "2025-08-01", "amount": 5000, "mpesa_code": "TH86PQR4H", "channel": "Till", "fines_incurred": 0, "savings_credited": 5000 },
+        "Sep": { "date": "2025-09-03", "amount": 5000, "mpesa_code": "TI97STU5I", "channel": "Till", "fines_incurred": 0, "savings_credited": 5000 },
+        "Oct": { "date": "2025-10-02", "amount": 5000, "mpesa_code": "TJ08VWX6J", "channel": "Till", "fines_incurred": 0, "savings_credited": 5000 },
+        "Nov": { "date": "2025-11-04", "amount": 5000, "mpesa_code": "TK19YZA7K", "channel": "Till", "fines_incurred": 0, "savings_credited": 5000 },
+        "Dec": { "date": "2025-12-05", "amount": 5000, "mpesa_code": "TL20BCD8L", "channel": "Till", "fines_incurred": 0, "savings_credited": 5000 }
+      }
+    },
+    {
+      "member_id": "M002",
+      "name": "Kevin 'Kevo' Ochieng",
+      "phone_number": "0722000222",
+      "role": "Member",
+      "total_savings": 59300,
+      "outstanding_fines": 500,
+      "contributions": {
+        "Jan": { "date": "2025-01-04", "amount": 5000, "mpesa_code": "TA99QWE1A", "channel": "Till", "fines_incurred": 0, "savings_credited": 5000 },
+        "Feb": { "date": "2025-02-05", "amount": 5000, "mpesa_code": "TB88RTY2B", "channel": "Till", "fines_incurred": 0, "savings_credited": 5000 },
+        "Mar": { "date": "2025-03-04", "amount": 5000, "mpesa_code": "TC77UIO3C", "channel": "Personal Number", "fines_incurred": 200, "savings_credited": 4800 },
+        "Apr": { "date": "2025-04-05", "amount": 5000, "mpesa_code": "TD66PAS4D", "channel": "Till", "fines_incurred": 0, "savings_credited": 5000 },
+        "May": { "date": "2025-05-05", "amount": 5000, "mpesa_code": "TE55DFG5E", "channel": "Till", "fines_incurred": 0, "savings_credited": 5000 },
+        "Jun": { "date": "2025-06-12", "amount": 5000, "mpesa_code": "TF44HJK6F", "channel": "Till", "fines_incurred": 500, "savings_credited": 4500 },
+        "Jul": { "date": "2025-07-05", "amount": 5000, "mpesa_code": "TG33LZX7G", "channel": "Till", "fines_incurred": 0, "savings_credited": 5000 },
+        "Aug": { "date": "2025-08-04", "amount": 5000, "mpesa_code": "TH22CVB8H", "channel": "Till", "fines_incurred": 0, "savings_credited": 5000 },
+        "Sep": { "date": "2025-09-05", "amount": 5000, "mpesa_code": "TI11NMQ9I", "channel": "Till", "fines_incurred": 0, "savings_credited": 5000 },
+        "Oct": { "date": "2025-10-04", "amount": 5000, "mpesa_code": "TJ00WEE0J", "channel": "Till", "fines_incurred": 0, "savings_credited": 5000 },
+        "Nov": { "date": "2025-11-05", "amount": 5000, "mpesa_code": "TK11RRT1K", "channel": "Till", "fines_incurred": 0, "savings_credited": 5000 },
+        "Dec": { "date": "2025-12-10", "amount": 5000, "mpesa_code": "TL22YYU2L", "channel": "Till", "fines_incurred": 500, "savings_credited": 5000 }
+      }
+    },
+    {
+      "member_id": "M003",
+      "name": "Aisha Hassan",
+      "phone_number": "0733000333",
+      "role": "Treasurer",
+      "total_savings": 59700,
+      "outstanding_fines": 0,
+      "contributions": {
+        "Jan": { "date": "2025-01-01", "amount": 5000, "mpesa_code": "TA12QWE3A", "channel": "Till", "fines_incurred": 0, "savings_credited": 5000 },
+        "Feb": { "date": "2025-02-02", "amount": 5000, "mpesa_code": "TB23RTY4B", "channel": "Till", "fines_incurred": 300, "savings_credited": 4700 },
+        "Mar": { "date": "2025-03-03", "amount": 5000, "mpesa_code": "TC34UIO5C", "channel": "Till", "fines_incurred": 0, "savings_credited": 5000 },
+        "Apr": { "date": "2025-04-01", "amount": 5000, "mpesa_code": "TD45PAS6D", "channel": "Till", "fines_incurred": 0, "savings_credited": 5000 },
+        "May": { "date": "2025-05-02", "amount": 5000, "mpesa_code": "TE56DFG7E", "channel": "Till", "fines_incurred": 0, "savings_credited": 5000 },
+        "Jun": { "date": "2025-06-03", "amount": 5000, "mpesa_code": "TF67HJK8F", "channel": "Till", "fines_incurred": 0, "savings_credited": 5000 },
+        "Jul": { "date": "2025-07-01", "amount": 5000, "mpesa_code": "TG78LZX9G", "channel": "Till", "fines_incurred": 0, "savings_credited": 5000 },
+        "Aug": { "date": "2025-08-02", "amount": 5000, "mpesa_code": "TH89CVB0H", "channel": "Till", "fines_incurred": 0, "savings_credited": 5000 },
+        "Sep": { "date": "2025-09-03", "amount": 5000, "mpesa_code": "TI90NMQ1I", "channel": "Till", "fines_incurred": 0, "savings_credited": 5000 },
+        "Oct": { "date": "2025-10-01", "amount": 5000, "mpesa_code": "TJ01WEE2J", "channel": "Till", "fines_incurred": 0, "savings_credited": 5000 },
+        "Nov": { "date": "2025-11-02", "amount": 5000, "mpesa_code": "TK12RRT3K", "channel": "Till", "fines_incurred": 0, "savings_credited": 5000 },
+        "Dec": { "date": "2025-12-03", "amount": 5000, "mpesa_code": "TL23YYU4L", "channel": "Till", "fines_incurred": 0, "savings_credited": 5000 }
+      }
+    },
+    {
+      "member_id": "M004",
+      "name": "Brian Wanjala",
+      "phone_number": "0744000444",
+      "role": "Member",
+      "total_savings": 60000,
+      "outstanding_fines": 0,
+      "contributions": {
+        "Jan": { "date": "2025-01-05", "amount": 5000, "mpesa_code": "TA21ASD1A", "channel": "Till", "fines_incurred": 0, "savings_credited": 5000 },
+        "Feb": { "date": "2025-02-05", "amount": 5000, "mpesa_code": "TB32FGH2B", "channel": "Till", "fines_incurred": 0, "savings_credited": 5000 },
+        "Mar": { "date": "2025-03-05", "amount": 5000, "mpesa_code": "TC43JKL3C", "channel": "Till", "fines_incurred": 0, "savings_credited": 5000 },
+        "Apr": { "date": "2025-04-05", "amount": 5000, "mpesa_code": "TD54ZXC4D", "channel": "Till", "fines_incurred": 0, "savings_credited": 5000 },
+        "May": { "date": "2025-05-05", "amount": 5000, "mpesa_code": "TE65VBN5E", "channel": "Till", "fines_incurred": 0, "savings_credited": 5000 },
+        "Jun": { "date": "2025-06-05", "amount": 5000, "mpesa_code": "TF76MQW6F", "channel": "Till", "fines_incurred": 0, "savings_credited": 5000 },
+        "Jul": { "date": "2025-07-05", "amount": 5000, "mpesa_code": "TG87ERT7G", "channel": "Till", "fines_incurred": 0, "savings_credited": 5000 },
+        "Aug": { "date": "2025-08-05", "amount": 5000, "mpesa_code": "TH98TYU8H", "channel": "Till", "fines_incurred": 0, "savings_credited": 5000 },
+        "Sep": { "date": "2025-09-05", "amount": 5000, "mpesa_code": "TI09IOP9I", "channel": "Till", "fines_incurred": 0, "savings_credited": 5000 },
+        "Oct": { "date": "2025-10-05", "amount": 5000, "mpesa_code": "TJ10ASD0J", "channel": "Till", "fines_incurred": 0, "savings_credited": 5000 },
+        "Nov": { "date": "2025-11-05", "amount": 5000, "mpesa_code": "TK21FGH1K", "channel": "Till", "fines_incurred": 0, "savings_credited": 5000 },
+        "Dec": { "date": "2025-12-05", "amount": 5000, "mpesa_code": "TL32JKL2L", "channel": "Till", "fines_incurred": 0, "savings_credited": 5000 }
+      }
+    },
+    {
+      "member_id": "M005",
+      "name": "Njoroge Kamau",
+      "phone_number": "0755000555",
+      "role": "Member",
+      "total_savings": 59500,
+      "outstanding_fines": 0,
+      "contributions": {
+        "Jan": { "date": "2025-01-03", "amount": 5000, "mpesa_code": "TA44ZXC1A", "channel": "Till", "fines_incurred": 0, "savings_credited": 5000 },
+        "Feb": { "date": "2025-02-03", "amount": 5000, "mpesa_code": "TB55VBN2B", "channel": "Till", "fines_incurred": 0, "savings_credited": 5000 },
+        "Mar": { "date": "2025-03-03", "amount": 5000, "mpesa_code": "TC66MQW3C", "channel": "Till", "fines_incurred": 0, "savings_credited": 5000 },
+        "Apr": { "date": "2025-04-03", "amount": 5000, "mpesa_code": "TD77ERT4D", "channel": "Till", "fines_incurred": 0, "savings_credited": 5000 },
+        "May": { "date": "2025-05-03", "amount": 5000, "mpesa_code": "TE88TYU5E", "channel": "Till", "fines_incurred": 0, "savings_credited": 5000 },
+        "Jun": { "date": "2025-06-03", "amount": 5000, "mpesa_code": "TF99IOP6F", "channel": "Till", "fines_incurred": 0, "savings_credited": 5000 },
+        "Jul": { "date": "2025-07-03", "amount": 5000, "mpesa_code": "TG00ASD7G", "channel": "Till", "fines_incurred": 0, "savings_credited": 5000 },
+        "Aug": { "date": "2025-08-07", "amount": 5500, "mpesa_code": "TH11FGH8H", "channel": "Till", "fines_incurred": 500, "savings_credited": 5000 },
+        "Sep": { "date": "2025-09-03", "amount": 5000, "mpesa_code": "TI22JKL9I", "channel": "Till", "fines_incurred": 0, "savings_credited": 5000 },
+        "Oct": { "date": "2025-10-03", "amount": 5000, "mpesa_code": "TJ33ZXC0J", "channel": "Till", "fines_incurred": 0, "savings_credited": 5000 },
+        "Nov": { "date": "2025-11-03", "amount": 5000, "mpesa_code": "TK44VBN1K", "channel": "Till", "fines_incurred": 0, "savings_credited": 5000 },
+        "Dec": { "date": "2025-12-03", "amount": 5000, "mpesa_code": "TL55MQW2L", "channel": "Till", "fines_incurred": 0, "savings_credited": 5000 }
+      }
+    },
+    {
+      "member_id": "M006",
+      "name": "Faith Mutuku",
+      "phone_number": "0766000666",
+      "role": "Secretary",
+      "total_savings": 60000,
+      "outstanding_fines": 0,
+      "contributions": {
+        "Jan": { "date": "2025-01-02", "amount": 5000, "mpesa_code": "TA66ERT1A", "channel": "Till", "fines_incurred": 0, "savings_credited": 5000 },
+        "Feb": { "date": "2025-02-02", "amount": 5000, "mpesa_code": "TB77TYU2B", "channel": "Till", "fines_incurred": 0, "savings_credited": 5000 },
+        "Mar": { "date": "2025-03-02", "amount": 5000, "mpesa_code": "TC88IOP3C", "channel": "Till", "fines_incurred": 0, "savings_credited": 5000 },
+        "Apr": { "date": "2025-04-02", "amount": 5000, "mpesa_code": "TD99ASD4D", "channel": "Till", "fines_incurred": 0, "savings_credited": 5000 },
+        "May": { "date": "2025-05-02", "amount": 5000, "mpesa_code": "TE00FGH5E", "channel": "Till", "fines_incurred": 0, "savings_credited": 5000 },
+        "Jun": { "date": "2025-06-02", "amount": 5000, "mpesa_code": "TF11JKL6F", "channel": "Till", "fines_incurred": 0, "savings_credited": 5000 },
+        "Jul": { "date": "2025-07-02", "amount": 5000, "mpesa_code": "TG22ZXC7G", "channel": "Till", "fines_incurred": 0, "savings_credited": 5000 },
+        "Aug": { "date": "2025-08-02", "amount": 5000, "mpesa_code": "TH33VBN8H", "channel": "Till", "fines_incurred": 0, "savings_credited": 5000 },
+        "Sep": { "date": "2025-09-02", "amount": 5000, "mpesa_code": "TI44MQW9I", "channel": "Till", "fines_incurred": 0, "savings_credited": 5000 },
+        "Oct": { "date": "2025-10-02", "amount": 5000, "mpesa_code": "TJ55ERT0J", "channel": "Till", "fines_incurred": 0, "savings_credited": 5000 },
+        "Nov": { "date": "2025-11-02", "amount": 5000, "mpesa_code": "TK66TYU1K", "channel": "Till", "fines_incurred": 0, "savings_credited": 5000 },
+        "Dec": { "date": "2025-12-02", "amount": 5000, "mpesa_code": "TL77IOP2L", "channel": "Till", "fines_incurred": 0, "savings_credited": 5000 }
+      }
+    },
+    {
+      "member_id": "M007",
+      "name": "David Kiprono",
+      "phone_number": "0777000777",
+      "role": "Member",
+      "total_savings": 60000,
+      "outstanding_fines": 0,
+      "contributions": {
+        "Jan": { "date": "2025-01-04", "amount": 5000, "mpesa_code": "TA88ASD1A", "channel": "Till", "fines_incurred": 0, "savings_credited": 5000 },
+        "Feb": { "date": "2025-02-04", "amount": 5000, "mpesa_code": "TB99FGH2B", "channel": "Till", "fines_incurred": 0, "savings_credited": 5000 },
+        "Mar": { "date": "2025-03-04", "amount": 5000, "mpesa_code": "TC00JKL3C", "channel": "Till", "fines_incurred": 0, "savings_credited": 5000 },
+        "Apr": { "date": "2025-04-04", "amount": 5000, "mpesa_code": "TD11ZXC4D", "channel": "Till", "fines_incurred": 0, "savings_credited": 5000 },
+        "May": { "date": "2025-05-04", "amount": 5000, "mpesa_code": "TE22VBN5E", "channel": "Till", "fines_incurred": 0, "savings_credited": 5000 },
+        "Jun": { "date": "2025-06-04", "amount": 5000, "mpesa_code": "TF33MQW6F", "channel": "Till", "fines_incurred": 0, "savings_credited": 5000 },
+        "Jul": { "date": "2025-07-04", "amount": 5000, "mpesa_code": "TG44ERT7G", "channel": "Till", "fines_incurred": 0, "savings_credited": 5000 },
+        "Aug": { "date": "2025-08-04", "amount": 5000, "mpesa_code": "TH55TYU8H", "channel": "Till", "fines_incurred": 0, "savings_credited": 5000 },
+        "Sep": { "date": "2025-09-04", "amount": 5000, "mpesa_code": "TI66IOP9I", "channel": "Till", "fines_incurred": 0, "savings_credited": 5000 },
+        "Oct": { "date": "2025-10-04", "amount": 5000, "mpesa_code": "TJ77ASD0J", "channel": "Till", "fines_incurred": 0, "savings_credited": 5000 },
+        "Nov": { "date": "2025-11-04", "amount": 5000, "mpesa_code": "TK88FGH1K", "channel": "Till", "fines_incurred": 0, "savings_credited": 5000 },
+        "Dec": { "date": "2025-12-04", "amount": 5000, "mpesa_code": "TL99JKL2L", "channel": "Till", "fines_incurred": 0, "savings_credited": 5000 }
+      }
+    },
+    {
+      "member_id": "M008",
+      "name": "Jane Moraa",
+      "phone_number": "0788000888",
+      "role": "Member",
+      "total_savings": 60000,
+      "outstanding_fines": 0,
+      "contributions": {
+        "Jan": { "date": "2025-01-05", "amount": 5000, "mpesa_code": "TA00ZXC1A", "channel": "Till", "fines_incurred": 0, "savings_credited": 5000 },
+        "Feb": { "date": "2025-02-05", "amount": 5000, "mpesa_code": "TB11VBN2B", "channel": "Till", "fines_incurred": 0, "savings_credited": 5000 },
+        "Mar": { "date": "2025-03-05", "amount": 5000, "mpesa_code": "TC22MQW3C", "channel": "Till", "fines_incurred": 0, "savings_credited": 5000 },
+        "Apr": { "date": "2025-04-05", "amount": 5000, "mpesa_code": "TD33ERT4D", "channel": "Till", "fines_incurred": 0, "savings_credited": 5000 },
+        "May": { "date": "2025-05-05", "amount": 5000, "mpesa_code": "TE44TYU5E", "channel": "Till", "fines_incurred": 0, "savings_credited": 5000 },
+        "Jun": { "date": "2025-06-05", "amount": 5000, "mpesa_code": "TF55IOP6F", "channel": "Till", "fines_incurred": 0, "savings_credited": 5000 },
+        "Jul": { "date": "2025-07-05", "amount": 5000, "mpesa_code": "TG66ASD7G", "channel": "Till", "fines_incurred": 0, "savings_credited": 5000 },
+        "Aug": { "date": "2025-08-05", "amount": 5000, "mpesa_code": "TH77FGH8H", "channel": "Till", "fines_incurred": 0, "savings_credited": 5000 },
+        "Sep": { "date": "2025-09-05", "amount": 5000, "mpesa_code": "TI88JKL9I", "channel": "Till", "fines_incurred": 0, "savings_credited": 5000 },
+        "Oct": { "date": "2025-10-05", "amount": 5000, "mpesa_code": "TJ99ZXC0J", "channel": "Till", "fines_incurred": 0, "savings_credited": 5000 },
+        "Nov": { "date": "2025-11-05", "amount": 5000, "mpesa_code": "TK00VBN1K", "channel": "Till", "fines_incurred": 0, "savings_credited": 5000 },
+        "Dec": { "date": "2025-12-05", "amount": 5000, "mpesa_code": "TL11MQW2L", "channel": "Till", "fines_incurred": 0, "savings_credited": 5000 }
+      }
+    },
+    {
+      "member_id": "M009",
+      "name": "Tom Odhiambo",
+      "phone_number": "0799000999",
+      "role": "Member",
+      "total_savings": 59900,
+      "outstanding_fines": 0,
+      "contributions": {
+        "Jan": { "date": "2025-01-01", "amount": 5000, "mpesa_code": "TA22ERT1A", "channel": "Till", "fines_incurred": 0, "savings_credited": 5000 },
+        "Feb": { "date": "2025-02-01", "amount": 5000, "mpesa_code": "TB33TYU2B", "channel": "Till", "fines_incurred": 0, "savings_credited": 5000 },
+        "Mar": { "date": "2025-03-01", "amount": 5000, "mpesa_code": "TC44IOP3C", "channel": "Till", "fines_incurred": 0, "savings_credited": 5000 },
+        "Apr": { "date": "2025-04-01", "amount": 5000, "mpesa_code": "TD55ASD4D", "channel": "Till", "fines_incurred": 0, "savings_credited": 5000 },
+        "May": { "date": "2025-05-01", "amount": 5000, "mpesa_code": "TE66FGH5E", "channel": "Till", "fines_incurred": 0, "savings_credited": 5000 },
+        "Jun": { "date": "2025-06-01", "amount": 5000, "mpesa_code": "TF77JKL6F", "channel": "Till", "fines_incurred": 0, "savings_credited": 5000 },
+        "Jul": { "date": "2025-07-01", "amount": 5000, "mpesa_code": "TG88ZXC7G", "channel": "Till", "fines_incurred": 0, "savings_credited": 5000 },
+        "Aug": { "date": "2025-08-01", "amount": 5000, "mpesa_code": "TH99VBN8H", "channel": "Till", "fines_incurred": 0, "savings_credited": 5000 },
+        "Sep": { "date": "2025-09-01", "amount": 5000, "mpesa_code": "TI00MQW9I", "channel": "Till", "fines_incurred": 0, "savings_credited": 5000 },
+        "Oct": { "date": "2025-10-01", "amount": 5000, "mpesa_code": "TJ11ERT0J", "channel": "Till", "fines_incurred": 0, "savings_credited": 5000 },
+        "Nov": { "date": "2025-11-01", "amount": 5000, "mpesa_code": "TK22TYU1K", "channel": "Till", "fines_incurred": 0, "savings_credited": 5000 },
+        "Dec": { "date": "2025-12-05", "amount": 5000, "mpesa_code": "TL33IOP2L", "channel": "Till", "fines_incurred": 100, "savings_credited": 4900 }
+      }
+    },
+    {
+      "member_id": "M010",
+      "name": "Lucy Nduta",
+      "phone_number": "0700111000",
+      "role": "Member",
+      "total_savings": 60000,
+      "outstanding_fines": 0,
+      "contributions": {
+        "Jan": { "date": "2025-01-03", "amount": 5000, "mpesa_code": "TA44ASD1A", "channel": "Till", "fines_incurred": 0, "savings_credited": 5000 },
+        "Feb": { "date": "2025-02-03", "amount": 5000, "mpesa_code": "TB55FGH2B", "channel": "Till", "fines_incurred": 0, "savings_credited": 5000 },
+        "Mar": { "date": "2025-03-03", "amount": 5000, "mpesa_code": "TC66JKL3C", "channel": "Till", "fines_incurred": 0, "savings_credited": 5000 },
+        "Apr": { "date": "2025-04-03", "amount": 5000, "mpesa_code": "TD77ZXC4D", "channel": "Till", "fines_incurred": 0, "savings_credited": 5000 },
+        "May": { "date": "2025-05-03", "amount": 5000, "mpesa_code": "TE88VBN5E", "channel": "Till", "fines_incurred": 0, "savings_credited": 5000 },
+        "Jun": { "date": "2025-06-03", "amount": 5000, "mpesa_code": "TF99MQW6F", "channel": "Till", "fines_incurred": 0, "savings_credited": 5000 },
+        "Jul": { "date": "2025-07-03", "amount": 5000, "mpesa_code": "TG00ERT7G", "channel": "Till", "fines_incurred": 0, "savings_credited": 5000 },
+        "Aug": { "date": "2025-08-03", "amount": 5000, "mpesa_code": "TH11TYU8H", "channel": "Till", "fines_incurred": 0, "savings_credited": 5000 },
+        "Sep": { "date": "2025-09-03", "amount": 5000, "mpesa_code": "TI22IOP9I", "channel": "Till", "fines_incurred": 0, "savings_credited": 5000 },
+        "Oct": { "date": "2025-10-03", "amount": 5000, "mpesa_code": "TJ33ASD0J", "channel": "Till", "fines_incurred": 0, "savings_credited": 5000 },
+        "Nov": { "date": "2025-11-03", "amount": 5000, "mpesa_code": "TK44FGH1K", "channel": "Till", "fines_incurred": 0, "savings_credited": 5000 },
+        "Dec": { "date": "2025-12-03", "amount": 5000, "mpesa_code": "TL55JKL2L", "channel": "Till", "fines_incurred": 0, "savings_credited": 5000 }
+      }
+    }
+  ]
+}
