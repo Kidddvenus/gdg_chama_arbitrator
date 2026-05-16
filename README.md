@@ -10,13 +10,32 @@ An AI-powered arbitration system designed to resolve disputes within Kenyan Cham
 - **Privacy First**: Robust content filtering for sensitive financial data.
 
 ## Project Structure
-Refer to [architecture.md](docs/architecture.md) for a detailed breakdown of the system.
+This repo uses a modern `src`-layout. All application code lives under `src/chama_arbitrator/`, while the repository root remains clean for configuration, docs, and CI.
+
+Example layout:
+
+```text
+bwaiproject/
+├── pyproject.toml
+├── uv.lock
+├── README.md
+└── src/
+    └── chama_arbitrator/
+        ├── __init__.py
+        ├── app/
+        ├── agents/
+        ├── prompts/
+        └── services/
+```
+
+Refer to [docs/architecture.md](docs/architecture.md) for a detailed breakdown of the system.
 
 ## Setup
 1. Clone the repository.
 2. Install dependencies: `pip install .`
 3. Set up environment variables in `.env`.
-4. Run with Docker: `docker-compose up`
+4. Run locally: `uvicorn chama_arbitrator.app.main:app --reload`
+5. Run with Docker: `docker-compose up`
 
 ## Development
 See [CLAUDE.md](CLAUDE.md) for development workflows and coding standards.
