@@ -1,0 +1,8 @@
+[
+  {
+    "query": "Mbona sipati loan yangu na nimesave 50k?",
+    "expected_category": "financial",
+    "reference_rule": "Article 4: Loan Eligibility",
+    "ideal_response": "Kulingana na Article 4, lazima uwe umesave kwa miezi sita mfululizo..."
+  }
+]
